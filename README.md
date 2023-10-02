@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ZareClem
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Business Intelligence
-- 💞️ I’m looking to collaborate on Data Analytics Projects
-- 📫 How to reach me 
+- 👀 I’m interested in Data Analytics and Business Intelligence
+- 💞️ I’m looking to collaborate on Data Analytics and Statistics Projects
+- 📫 You can reach me via my email clemento620@gmail.com
 
 <!---
 ZareClem/ZareClem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
