@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZareClem
-- 👀 I’m interested in Data Analytics and Data Sience
+- 👀 I’m interested in Data Analytics and Data Science
 - 💞️ I’m looking to collaborate on Data Analytics and Statistics Projects
 - 📫 You can reach me via my email clemento620@gmail.com
 
